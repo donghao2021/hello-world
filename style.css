@@ -1,0 +1,52 @@
+body{
+    margin: 0 10%;
+    border: 5px solid blue;
+    padding: 0; 
+    background-color: aquamarine;
+    line-height: 2.0em;
+    font-family:KaiTi;
+    /* font-family:FangSong_GB2312; */
+    font-size: 1.5em;
+    }        
+a{
+    text-decoration: none;
+}
+div{
+    margin-bottom: 2px;
+    border: 2px solid yellow;
+    padding: 0 5px;
+    /* background-color: wheat; */
+}
+div.tiao{
+    background-color: yellowgreen;
+}
+.title_mulu h1{
+    text-align: center;
+    padding: 25px;
+    border: 10px solid red;
+} 
+.title_mulu h2{
+    text-align: center;
+} 
+.title_mulu ul{
+    padding-left: 20%;
+    list-style: none;
+}
+
+ol{
+    margin-left: 2em;
+}
+ol ol{
+    list-style-type: lower-roman;
+}
+span{
+    margin-right: 1em;
+    font-weight: bold;
+}
+.tiao_ span{
+    color: red;
+}
+img{
+    max-width: 100%;
+
+}
