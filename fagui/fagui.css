@@ -1,0 +1,20 @@
+body{
+    width: 80%;
+    margin: 0 auto;
+    line-height: 1.5em;
+    font-family: 宋体;
+}
+h1{
+    text-align: center;
+}
+h2{
+    font-size: 1.4em; 
+    text-align: center;
+}
+p{
+    text-indent: 2em; 
+    font-size: 1.4em;
+} 
+span{
+    font-weight: bold;
+} 
